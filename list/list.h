@@ -1,6 +1,4 @@
 // List data type
-// You may modify this file as needed; however,
-// you may *NOT* modify the function prototypes or constant names.
 
 #ifndef _LIST_H_
 #define _LIST_H_
