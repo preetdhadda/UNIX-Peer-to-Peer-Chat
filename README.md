@@ -24,5 +24,4 @@ Dr. Brian Fraser's operating systems workshops were referenced when constructing
 
 ## Authors 
 
-Preet Dhadda 
-Jagjot Sidhu 
+Preet Dhadda & Jagjot Sidhu 
